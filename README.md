@@ -27,8 +27,8 @@ are needed - works everywhere you'd expect.
 > [!IMPORTANT]
 > If you want the option of restoring your original firmware exactly as-is, or
 > to make things easier if something goes wrong, you can back up your device
-> firmware first by following [`RECOVERY.md#Backing up your own
-> firmware`](RECOVERY.md#Backing up your own firmware). This repo doesn't
+> firmware first — see [backing up your own
+> firmware](RECOVERY.md#backing-up-your-own-firmware). This repo doesn't
 > distribute those images, and GoPro's firmware downloads are the generic
 > image, not guaranteed to be whatever was on your camera before.
 
