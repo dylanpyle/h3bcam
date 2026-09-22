@@ -140,9 +140,6 @@ anything below.
 
 See [`RECOVERY.md`](RECOVERY.md)
 
-The Ambarella A7 runs a USB bootrom **before** it touches NAND, so a bad
-firmware image can't lock you out — the chip will still talk over USB even when
-the firmware it's holding is garbage.
 ---
 
 ## Credits
